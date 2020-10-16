@@ -13,3 +13,7 @@ tags:
     name: markdown
   - slug: welcome
     name: welcome
+  - slug: macos
+    name: macos
+  - slug: macbook
+    name: macbook
